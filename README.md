@@ -10,7 +10,7 @@ This Project is purely made of HTML, CSS, JS, PHP & MYSQL. It was made during No
 Source code can be usable for creating custom _Search Engine_. 
 For cloning Repository
 
-```bash git clone https://github.com/agntperfect/MyProject.git ```
+```git clone https://github.com/agntperfect/MyProject.git ```
 
 ## Progress
 As the project was create for e-commerce website.
