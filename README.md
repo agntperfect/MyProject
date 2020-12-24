@@ -1,4 +1,5 @@
-# MyProject
+# Search V0.0.1
+## Waring
 This Project is made for e-commerce website. So, Please don't clone the repository without permission.
 The Source Code can be clone by Developer of K.A.B Store
 
@@ -42,6 +43,7 @@ As mention in In
 ## JS  Library
 The senior developer or webmaster created JS library for security reason.
 - It will be difficult to read code when you have developer access
+
 More hard code More Secure You get
 
 ## Security
